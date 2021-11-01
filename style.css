@@ -1,0 +1,9 @@
+body{
+    background-image:url("bg 3.jpg");
+    background-size:cover;
+    background-position:center;
+}
+canvas{
+    background-color: rgb(194, 149, 236);
+    border:10px ridge black;
+}
